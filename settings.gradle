@@ -1,0 +1,2 @@
+include ':app', ':lib_core', ':slide'
+rootProject.name='KuaiShouAppShow'
